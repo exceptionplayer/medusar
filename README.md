@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-[![medusar's github stats](https://github-readme-stats.vercel.app/api?username=medusar)](https://github.com/medusar)
+[![exceptionplayer's github stats](https://github-readme-stats.vercel.app/api?username=exceptionplayer)](https://github.com/exceptionplayer)
